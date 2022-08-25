@@ -276,6 +276,22 @@
     "/audiobar/latest": [
         "zxzhuty"
     ],
+    "/baidu/tieba/forum/:kw": [
+        "u3u"
+    ],
+    "/baidu/tieba/forum/good/:kw/:cid?": [
+        "u3u"
+    ],
+    "/baidu/tieba/post/:id": [
+        "u3u"
+    ],
+    "/baidu/tieba/post/lz/:id": [
+        "u3u"
+    ],
+    "/baidu/tieba/user/:uid": [
+        "igxlin",
+        "nczitzk"
+    ],
     "/baijing/:type?": [
         "nczitzk"
     ],
@@ -3654,6 +3670,9 @@
     "/xjtu/std/:category?": [
         "nczitzk"
     ],
+    "/xmnn/epaper/:id?": [
+        "nczitzk"
+    ],
     "/xueqiu/column/:id": [
         "TonyRL"
     ],
@@ -3905,11 +3924,6 @@
     "/weibo/search/hot": [],
     "/weibo/super_index/:id/:type?/:routeParams?": [],
     "/weibo/oasis/user/:userid": [],
-    "/tieba/forum/:kw": [],
-    "/tieba/forum/good/:kw/:cid?": [],
-    "/tieba/post/:id": [],
-    "/tieba/post/lz/:id": [],
-    "/tieba/user/:uid": [],
     "/ncm/playlist/:id": [],
     "/ncm/user/playlist/:uid": [],
     "/ncm/artist/:id": [],
